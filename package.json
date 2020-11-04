@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/Tekyon-Org/dbmigrator/issues"
   },
-  "homepage": "https://github.com/Tekyon-Org/dbmigrator#readme"
+  "homepage": "https://github.com/Tekyon-Org/dbmigrator#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "execa": "^4.1.0",
+    "inquirer": "^7.3.3",
+    "listr": "^0.14.3",
+    "mysql": "^2.18.1",
+    "sqlite3": "^5.0.0"
+  }
 }
